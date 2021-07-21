@@ -1,0 +1,2 @@
+(this["webpackJsonppsm-deploy"]=this["webpackJsonppsm-deploy"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),s=n.n(c),o=n(3),r=n.n(o),i=n(0);function p(){return Object(i.jsxs)("div",{className:"p-6",children:["production"," kkk"]})}n(9);r.a.render(Object(i.jsx)(s.a.StrictMode,{children:Object(i.jsx)(p,{})}),document.getElementById("root"))},9:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.1bfec684.chunk.js.map
