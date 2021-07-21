@@ -1,7 +1,3 @@
-const dotenvCra = require('dotenv-cra');
-
-dotenvCra.config();
-
 module.exports = {
   style: {
     postcss: {
